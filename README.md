@@ -1,4 +1,4 @@
-# [2017-spring] CSE6494: Computational Intelligence Optimization
+# [2017-spring] Sogang Univ. CSE6494: Computational Intelligence Optimization
 
 ## Presentation
 0. Markov Chain
